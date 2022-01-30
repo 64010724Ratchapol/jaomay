@@ -1,0 +1,77 @@
+﻿html,body{
+    margin:0;
+    padding:0;
+    background-color:darkgray;
+}
+
+.head {
+    background-color:black;
+}
+
+.menu {
+    color:papayawhip;
+    padding:20px;
+    display:inline-block;
+    text-decoration:none;
+    font-size:20px;
+}
+
+
+.container{
+    height:100vh;
+    width:100%;
+
+}
+
+#icon {
+    width:80px;
+    cursor:pointer;
+}
+
+.bigbox {
+    max-width:700px;
+    margin:auto;
+}
+
+.box {
+    background-color:palegoldenrod;
+    margin:20px;
+    padding:30px;
+}
+
+.box1 {
+    background-color: gold;
+    margin: 20px;
+    padding: 30px;
+}
+
+
+.image {
+    width:49.5%;
+}
+
+.image2 {
+    width: 100%;
+}
+
+.text {
+    color:dodgerblue;
+}
+
+.button {
+    color:black;
+    background-color:lightslategray;
+    text-decoration:none;
+    padding:5px;
+    display:inline-block;
+}
+
+.end {
+    background-color:black;
+    padding:20px;
+    text-align:center;
+}
+
+.said {
+    color:lightpink
+}
